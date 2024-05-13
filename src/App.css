@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .task-list {
+    margin-bottom: 20px;
+  }
+  
+  .task {
+    margin-bottom: 10px;
+  }
+  
+  .task.completed span {
+    text-decoration: line-through;
+  }
+  
+  .filter-buttons button {
+    margin-right: 10px;
+  }
+  
